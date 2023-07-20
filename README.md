@@ -1,2 +1,2 @@
 # CV-proposed-method-content-aware-image-resizing
-a proposed method for content aware image resizing (reduce width to half)
+a proposed method for content aware image resizing (reduce width to half) using depth and edges
